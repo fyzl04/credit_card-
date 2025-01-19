@@ -4,7 +4,9 @@
 ## Capstone Project
 
 **Author**: faisal manjappully ashraf 
-**Organization**: Entri Elevate  
+
+**Organization**: Entri Elevate 
+
 **Date**: [Evaluation Date]
 
 ---
